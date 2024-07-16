@@ -1,5 +1,6 @@
 # C++
 
+- Developed by Bjarne Stroustrup as extension to C
 - General Purpose Programming Language
 - Has imperative, object-oriented and generic programming features
 - Cross-platform language
@@ -61,3 +62,13 @@
     - Supports dynamic memory allocation
     - Feature to free allocated memory via free() function
 
+# Applications of C++
+
+- Video Games
+- Real-Time Systems
+- High-Performance Financial Applications
+- Graphical Applications & Simulations
+- Productivity / Office Applications
+- Embedded Software
+- Audio & Video Processing
+- Artificial Intelligence & Neural Networks
